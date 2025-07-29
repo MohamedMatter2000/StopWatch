@@ -23,12 +23,6 @@ Digital stopwatch with start, stop, and reset functionality
 - **Hours:Minutes:Seconds.Milliseconds**
 - Example: 01:23:45.67
 
-## Keyboard Controls
-- **Spacebar**: Start/Stop toggle
-- **R Key**: Reset stopwatch
-- **Enter**: Alternative start/stop control
-
-
 ## Technologies
 - HTML5 for structure
 - CSS3 for styling
